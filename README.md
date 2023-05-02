@@ -2,11 +2,10 @@
 <div align="center">
   <img src="FNT_6121.JPG" alt="Hello World" width="140"  height="auto" />
   <br/>
-
-  <h3><b>Hello Microverse</b></h3>
-
+  <h1>Portfolio Project</h1>
 </div>
-# 📗 Table of Contents
+
+## 📗 Table of Contents
 
 - [📖 About the Project](#about-project)
   - [🛠 Built With](#built-with)
@@ -22,10 +21,10 @@
 - [❓ FAQ (OPTIONAL)](#faq)
 
 
-# 📖 [ Portfolio] <a name="about-project"></a>
+# 📖 [ About the Project] <a name="about-project"></a>
 > this is my Second microverse Portfolio Project and technical project!
 
-**[Portfolio]** is my second project in microverse platform!
+**[Portfolio]** is my second project in microverse platform! In this I try to update my CSS and HTML programming languages. 
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -45,15 +44,25 @@
 </details>
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+### Key Features <a name="key-features"></a>
+
+- [ ] **[Showcasing your best work. ]**
+- A portfolio project is a great way to highlight your best work and demonstrate your skills to potential employers or clients. It should showcase your most impressive and relevant projects, as well as your creativity, problem-solving abilities, and attention to detail.
+- [ ] **[Personal branding. ]**
+- A portfolio project is an opportunity to develop and showcase your personal brand. By presenting your work in a consistent and visually appealing way, you can create a strong and memorable impression on those who view it.
+- [ ] **[Customization. ]**
+- A portfolio project can be customized to fit your specific needs and goals. You can choose the format, design, and content that best showcases your skills and experience. You can also update your portfolio over time as you complete new projects or acquire new skills.
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 ## 💻 Getting Started <a name="getting-started"></a>
 
 - To get a local copy up and running, follow these steps.
 - Install Git Bash
 - then type the following command to pull the project into your local repo
-  cd Microver-project
-  git clone https://github.com/feyisakedir/Hello-World.git
+- git clone https://github.com/feyisakedir/Hello-World.git
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 ## 👥 Authors <a name="authors"></a>
 
 👤 **Author1**
@@ -64,14 +73,13 @@
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-- [ ] **[the ability for users to customize the greeting message. ]**
-- For example, users could enter their own name or message to be displayed instead of the default "Hello, World!" message. This could be done through a simple text input field or through more advanced customization options such as font style, color, or animation effects. This feature could make the project more engaging and personalized for users, allowing them to feel more connected to the application.
+- [ ] **[Interactive elements. ]**
+- As technology continues to advance, portfolio projects may incorporate more interactive elements to engage viewers and make the experience more dynamic. This could include features such as animations, videos, or interactive graphics that allow viewers to interact with the project in a more immersive way.
 
-- [ ] **[Voice Recognition]**
-- With voice recognition, users could simply say "Hello" or their name out loud and the application would respond with a personalized greeting message. This feature
-  could be useful for users with disabilities or those who prefer hands-free interactions with technology.
-- [ ] **[Social Media Integration: ]**
-- Social media integration would allow users to share their personalized greeting message on their social media profiles. This could be done by adding a "Share" button   that generates a link or image of the greeting message, which users could then post on their social media profiles for their friends and followers to see.
+- [ ] **[Integration with emerging technologies.]**
+- With the rise of virtual and augmented reality, future portfolio projects may leverage these technologies to create a more immersive experience for viewers. This could allow for a more interactive and engaging presentation of your work, enabling you to showcase your skills in a more cutting-edge and innovative way.
+- [ ] **[Enhanced analytics.]**
+- Future portfolio projects may incorporate more advanced analytics to help you track the performance of your portfolio and gain insights into viewer behavior. This could include features such as heat maps that show where viewers are spending the most time on your site, or tools that help you track which projects are generating the most interest or engagement. By leveraging these insights, you can optimize your portfolio to better showcase your skills and attract more attention from potential employers or clients.
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 🤝 Contributing <a name="contributing"></a>
@@ -101,8 +109,11 @@ I would like to thanks all microverse teams for this chance
 
   - [Intall HTML and CSS editor tool like:- VISUAL STUDIO CODE]
 
-- **[the CSS file is not working]**
+- **[what is the output of this project?]**
 
-  - [make sure that you pull both HTML and CSS fill into your local repo]
+  - [this is the sample page from the project ]
+  <div align="center">
+  <img src="FNT_6121.JPG" alt="Portfolio Project" width="140"  height="auto" />
+</div>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
