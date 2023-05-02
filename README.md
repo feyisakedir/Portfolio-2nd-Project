@@ -33,13 +33,13 @@
 <details>
   <summary>HTML File</summary>
   <ul>
-    <li><a href="https://github.com/feyisakedir/Hello-Microverse-1st-Project/blob/main/gitignore/index.html">index.html</a></li>
+    <li><a href="https://github.com/feyisakedir/Portfolio-2nd-Project/blob/main/gitignore/index.html">index.html</a></li>
   </ul>
 </details>
 <details>
   <summary>CSS File</summary>
   <ul>
-    <li><a href="https://github.com/feyisakedir/Hello-Microverse-1st-Project/blob/main/gitignore/styles.css">style.css</a></li>
+    <li><a href="https://github.com/feyisakedir/Portfolio-2nd-Project/blob/main/gitignore/styles.css">style.css</a></li>
   </ul>
 </details>
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
