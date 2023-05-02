@@ -1,4 +1,181 @@
-h1 {
-  color: blue;
-  font-style: italic;
+body{
+  width: 100%;
+  height: 100%;
+}
+.main{
+  display: flex;
+  flex-direction: row-reverse;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  width: 100%;
+}
+.container{
+  display: flex;
+  flex-grow: 1;
+  flex-wrap: wrap;
+  width: 100%;
+  margin-top: 10%;
+}
+.Ellipse-4{
+  position: absolute;
+  width: 2.5%;
+  height: 1.5%;
+  margin-top: 15%;
+  margin-bottom:5px;
+}
+.Rectangle-5{
+  position: absolute;
+  width: 7.5%;
+  height: 2.5%;
+  margin-left: 40%;
+  margin-top: 15%;
+  transform: rotate(23.34deg);
+}
+.Ellipse-top{
+  position: absolute;
+  width: 5%;
+  height: 5%;
+  margin-top: 1%;
+}
+.para{
+  width: 100%;
+  height: 20%;
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 35px;
+  line-height: 95%;
+  letter-spacing: 0.4px;
+  color: #344563;
+  flex: none;
+  order: 1;
+  flex-grow: 0;
+}
+.logo{
+  width: 100%;
+  height: 10%;
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 200;
+  font-size: 18px;
+  line-height: 80%;
+  display: flex;
+  align-items: center;
+  text-align: center;
+  color: #6070FF;
+  flex: none;
+  order: 0;
+  flex-grow: 0;
+}
+.Rectangle-7{
+  position: absolute;
+  width: 5%;
+  height: 5%;
+  margin-left: 25%;
+}
+.Ellipse-5{
+  position: absolute;
+  width: 2.5%;
+  height: 2.5%;
+  margin-top: 1%;
+}
+.Ellipse-3{
+  position: absolute;
+  width: 105px;
+  height: 105px;
+  left: 30%;
+  top: 82.24px;
+}
+.Rectangle{
+  position: absolute;
+  width: 95.58px;
+  height: 22.02px;
+  left: 40%;
+  top: 80.79px;
+  background: #EBEBFF;
+  transform: rotate(-30deg);
+}
+.feyisa{
+  width: 100%;
+  height: 60%;
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 96px;
+  line-height: 80%;
+  display: flex;
+  align-items: center;
+  letter-spacing: 0.4px;
+  color: #091E42;
+  flex: none;
+  order: 0;
+  flex-grow: 0;
+  top: 25%;
+}
+.let{
+  width: 100%;
+  height: 5%;
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 16px;
+  color: #7F8CFF;
+  flex: none;
+  order: 0;
+  flex-grow: 0;
+}
+.twitter{ 
+  position: absolute;
+  left: 0%;
+  right: 2.5%;
+  top: 2.5%;
+  bottom: 2.5%;
+}
+.in{ 
+  position: absolute;
+  left: 2.5%;
+  right: 5%;
+  top: 2.5%;
+  bottom: 2.5%;
+}
+.medium{ 
+  position: absolute;
+  left: 5%;
+  right: 7.5%;
+  top: 2.5%;
+  bottom: 2.5%;
+}
+.github{
+  position: absolute;
+  left: 7.5%;
+  right: 10%;
+  top: 2.5%;
+  bottom: 2.5%; 
+}
+.angellist{ 
+  position: absolute;
+  left: 10%;
+  right: 12.5%;
+  top: 2.5%;
+  bottom: 2.5%;
+}
+.vec{ 
+  position: absolute;
+  margin-left:40%;
+  margin-top: 0%;
+}
+.vec-1{ 
+  position: absolute;
+  left: 40%;
+  right: 10%;
+  top: 2.5%;
+  bottom: 0%;
+}
+.menu{ 
+  position: absolute;
+  width: 5%;
+  margin-left: 95%;
+  margin-right: 0%;
+
 }
