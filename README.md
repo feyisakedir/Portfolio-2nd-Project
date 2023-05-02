@@ -113,7 +113,7 @@ I would like to thanks all microverse teams for this chance
 
   - [this is the sample page from the project ]
   <div align="center">
-  <img src="FNT_6121.JPG" alt="Portfolio Project" width="140"  height="auto" />
+  <img src="output.png" alt="Portfolio Project" width="140"  height="auto" />
 </div>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
