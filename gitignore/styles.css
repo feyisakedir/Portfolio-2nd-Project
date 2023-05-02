@@ -2,6 +2,7 @@ body {
   width: 100%;
   height: 100%;
 }
+
 .main {
   display: flex;
   flex-direction: row-reverse;
@@ -9,6 +10,7 @@ body {
   justify-content: space-between;
   width: 100%;
 }
+
 .container {
   display: flex;
   flex-grow: 1;
@@ -16,6 +18,7 @@ body {
   width: 100%;
   margin-top: 10%;
 }
+
 .ellipse-4 {
   position: absolute;
   width: 2.5%;
@@ -23,6 +26,7 @@ body {
   margin-top: 15%;
   margin-bottom:5px;
 }
+
 .rectangle-5 {
   position: absolute;
   width: 7.5%; 
@@ -31,12 +35,14 @@ body {
   margin-top: 15%;
   transform: rotate(23.34deg);
 }
+
 .ellipse-top {
   position: absolute;
   width: 5%;
   height: 5%;
   margin-top: 1%;
 }
+
 .para {
   width: 100%;
   height: 20%;
@@ -51,6 +57,7 @@ body {
   order: 1;
   flex-grow: 0;
 }
+
 .logo {
   width: 100%;
   height: 10%;
@@ -67,18 +74,21 @@ body {
   order: 0;
   flex-grow: 0;
 }
+
 .rectangle-7 {
   position: absolute;
   width: 5%;
   height: 5%;
   margin-left: 25%;
 }
+
 .ellipse-5 {
   position: absolute;
   width: 2.5%;
   height: 2.5%;
   margin-top: 1%;
 }
+
 .ellipse-3 {
   position: absolute;
   width: 105px;
@@ -86,6 +96,7 @@ body {
   left: 30%;
   top: 82.24px;
 }
+
 .rectangle {
   position: absolute;
   width: 95.58px;
@@ -95,6 +106,7 @@ body {
   background: #EBEBFF;
   transform: rotate(-30deg);
 }
+
 .feyisa {
   width: 100%;
   height: 60%;
@@ -112,6 +124,7 @@ body {
   flex-grow: 0;
   top: 25%;
 }
+
 .let {
   width: 100%;
   height: 5%;
@@ -125,6 +138,7 @@ body {
   order: 0;
   flex-grow: 0;
 }
+
 .twitter { 
   position: absolute;
   left: 0%;
@@ -132,6 +146,7 @@ body {
   top: 2.5%;
   bottom: 2.5%;
 }
+
 .in { 
   position: absolute;
   left: 2.5%;
@@ -139,6 +154,7 @@ body {
   top: 2.5%;
   bottom: 2.5%;
 }
+
 .medium { 
   position: absolute;
   left: 5%;
@@ -146,6 +162,7 @@ body {
   top: 2.5%;
   bottom: 2.5%;
 }
+
 .github {
   position: absolute;
   left: 7.5%;
@@ -153,6 +170,7 @@ body {
   top: 2.5%;
   bottom: 2.5%; 
 }
+
 .angellist { 
   position: absolute;
   left: 10%;
@@ -160,11 +178,13 @@ body {
   top: 2.5%;
   bottom: 2.5%;
 }
+
 .vec { 
   position: absolute;
   margin-left:40%;
   margin-top: 0%;
 }
+
 .vec-1 { 
   position: absolute;
   left: 40%;
@@ -172,6 +192,7 @@ body {
   top: 2.5%;
   bottom: 0%;
 }
+
 .menu { 
   position: absolute;
   width: 5%;
