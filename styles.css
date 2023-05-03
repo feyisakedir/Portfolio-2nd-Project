@@ -7,7 +7,7 @@ body {
   display: flex;
   flex-grow: 1;
   flex-wrap: wrap;
-  width: 100%;
+  width: 20vw;
   margin-top: 10%;
 }
 
@@ -40,7 +40,7 @@ body {
   height: 40%;
   font-family: 'Poppins';
   font-style: normal;
-  font-weight: 500;
+  font-weight: 400;
   font-size: 5vw;
   line-height: 6vw;
   letter-spacing: 0.4vw;
@@ -196,4 +196,5 @@ body {
   display: flex;
   flex-wrap: wrap;
   flex: 80vw;
+  flex-grow: 1;
 }
