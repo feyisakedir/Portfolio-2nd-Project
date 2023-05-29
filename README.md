@@ -109,11 +109,4 @@ I would like to thanks all microverse teams for this chance
 
   - [Intall HTML and CSS editor tool like:- VISUAL STUDIO CODE]
 
-- **[what is the output of this project?]**
-
-  - [this is the sample page from the project ]
-  <div align="center">
-  <img src="output.png" alt="Portfolio Project" width="140"  height="auto" />
-</div>
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
