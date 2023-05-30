@@ -7,7 +7,7 @@ main{
   background-image: url("background.png");
   background-size: 95vw 23vw;
   background-repeat: no-repeat;
-}
+} 
 .navgation {
   display: flex;
   flex-wrap: nowrap;
