@@ -70,8 +70,8 @@ main{
 .icon{
 display: flex;
 flex-grow: 1;
-max-width: 35vw;
-max-height: 20vm;
+max-width: 40vw;
+max-height: 25vm;
 margin-left: 5vm;
 margin-right: 1vm;
 margin-top: 5vm;
@@ -105,3 +105,4 @@ justify-content: space-between;
   margin-left: 90vw;
   margin-top: 0vw;
 }
+
