@@ -32,10 +32,10 @@ main{
 }
 .feyisa {
   width: 100vw;
-  font-family: 'Poppins';
+  font-family: 'Poppins', sans-serif;
   font-style: normal;
   font-weight: 700;
-  font-size: 14.89vw; 
+  font-size: 14vw; 
   line-height: 13vw;
   display: flex;
   align-items: center;
