@@ -14,7 +14,6 @@ main{
   align-items: center;
 }
 .menu {
-  max-width: auto; 
   max-height: 10vw;
   margin-left: 75vw;
 }
@@ -83,7 +82,7 @@ justify-content: space-between;
   }
 .logo {
   max-width: 40vw;
-  font-family: 'Poppins';
+  font-family:'Poppins', sans-serif;
   font-style: normal;
   font-weight: 700;
   font-size: 5vw;
