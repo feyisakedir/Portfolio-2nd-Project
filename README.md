@@ -107,6 +107,6 @@ I would like to thanks all microverse teams for this chance
 
 - **[What tools is required to run this project?]**
 
-  - [Intall HTML and CSS editor tool like:- VISUAL STUDIO CODE]
+  - [Intall HTML and CSS editor tool like:- VISUAL STUDIO CODE] 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
