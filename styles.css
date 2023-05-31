@@ -156,3 +156,19 @@ gap: 5vm;
   margin-left: 0.5vw;
   margin-right: 1vw;
 }
+.can{
+  display: flex;
+  flex-grow: 1;
+  width: 78.67vw;
+  height: 13vw;
+  justify-content: space-between;
+  gap: 12px;
+  }
+  .counter{
+    width: 2.133vw;
+    height: 2.133vw;
+    background: #C1C7D0;
+    flex: none;
+    order: 1;
+    flex-grow: 0;
+  }
