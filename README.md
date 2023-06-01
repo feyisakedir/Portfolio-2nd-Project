@@ -2,7 +2,7 @@
 <div align="center">
   <img src="FNT_6121.JPG" alt="Hello World" width="140"  height="auto" />
   <br/>
-  <h1>Portfolio Project</h1>
+  <h1>Portfolio Project for middle section of the mobile website design.</h1>
 </div>
 
 ## 📗 Table of Contents
@@ -22,9 +22,9 @@
 
 
 # 📖 [ About the Project] <a name="about-project"></a>
-> this is my Second microverse Portfolio Project and technical project!
+> this is my 3rd microverse Portfolio Project and technical project!
 
-**[Portfolio]** is my second project in microverse platform! In this I try to update my CSS and HTML programming languages. 
+**[Design Portfolio project middle section of the mobile website.]** is my 3rd project in microverse platform! In this I try to update my CSS and HTML programming languages. 
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -33,13 +33,13 @@
 <details>
   <summary>HTML File</summary>
   <ul>
-    <li><a href="https://github.com/feyisakedir/Portfolio-2nd-Project/blob/main/index.html">index.html</a></li>
+    <li><a href="https://github.com/feyisakedir/Portfolio-2nd-Project/blob/feature/index.html">index.html</a></li>
   </ul>
 </details>
 <details>
   <summary>CSS File</summary>
   <ul>
-    <li><a href="https://github.com/feyisakedir/Portfolio-2nd-Project/blob/main/styles.css">style.css</a></li>
+    <li><a href="https://github.com/feyisakedir/Portfolio-2nd-Project/blob/feature/styles.css">style.css</a></li>
   </ul>
 </details>
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -59,7 +59,7 @@
 - To get a local copy up and running, follow these steps.
 - Install Git Bash
 - then type the following command to pull the project into your local repo
-- git clone https://github.com/feyisakedir/Hello-World.git
+- git clone https://github.com/feyisakedir/Portfolio-2nd-Project.git
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -99,7 +99,7 @@ It is open project for support.
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-I would like to thanks all microverse teams for this chance
+I would like to say thanks all microverse teams for this chance!
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
