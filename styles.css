@@ -14,7 +14,7 @@ main{
   display: flex;
   flex-wrap: nowrap;
   flex-grow: 1;
-  max-width: 100%;
+  max-width: 100%; 
   max-height: 15vw;
   align-items: center;
 }
