@@ -165,7 +165,7 @@ max-width: 40vw;
 max-height: 25vm;
 margin-top: 5vm;
 justify-content: space-between;
-gap: 5vm;
+gap: 12px;
 }
 .icon-1{
   display: flex;
