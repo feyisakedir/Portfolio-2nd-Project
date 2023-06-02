@@ -2,7 +2,7 @@
 <div align="center">
   <img src="FNT_6121.JPG" alt="Hello World" width="140"  height="auto" />
   <br/>
-  <h1>Portfolio Project for middle section of the mobile website design.</h1>
+  <h1>Portfolio Project</h1>
 </div>
 
 ## 📗 Table of Contents
@@ -19,12 +19,12 @@
 - [⭐️ Show your support](#support)
 - [🙏 Acknowledgements](#acknowledgements)
 - [❓ FAQ (OPTIONAL)](#faq)
-- [📝 License](#license)
+
 
 # 📖 [ About the Project] <a name="about-project"></a>
-> this is my 3rd microverse Portfolio Project and technical project!
+> this is my Second microverse Portfolio Project and technical project!
 
-**[Design Portfolio project middle section of the mobile website.]** is my 3rd project in microverse platform! In this I try to update my CSS and HTML programming languages knowledge. 
+**[Portfolio]** is my second project in microverse platform! In this I try to update my CSS and HTML programming languages. 
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -33,13 +33,13 @@
 <details>
   <summary>HTML File</summary>
   <ul>
-    <li><a href="https://github.com/feyisakedir/Portfolio-2nd-Project/blob/feature/index.html">index.html</a></li>
+    <li><a href="https://github.com/feyisakedir/Portfolio-2nd-Project/blob/main/index.html">index.html</a></li>
   </ul>
 </details>
 <details>
   <summary>CSS File</summary>
   <ul>
-    <li><a href="https://github.com/feyisakedir/Portfolio-2nd-Project/blob/feature/styles.css">style.css</a></li>
+    <li><a href="https://github.com/feyisakedir/Portfolio-2nd-Project/blob/main/styles.css">style.css</a></li>
   </ul>
 </details>
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -59,7 +59,7 @@
 - To get a local copy up and running, follow these steps.
 - Install Git Bash
 - then type the following command to pull the project into your local repo
-- git clone https://github.com/feyisakedir/Portfolio-2nd-Project.git
+- git clone https://github.com/feyisakedir/Hello-World.git
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -99,7 +99,7 @@ It is open project for support.
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-I would like to say thanks all microverse teams for this chance!
+I would like to thanks all microverse teams for this chance
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -109,31 +109,4 @@ I would like to say thanks all microverse teams for this chance!
 
   - [Intall HTML and CSS editor tool like:- VISUAL STUDIO CODE]
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-## 📝 License <a name="license"></a>
-
-This project is licensed under the <a href="https://github.com/feyisakedir/Portfolio-2nd-Project/blob/main/LICENSE">[MIT License]</a>(LICENSE).
-
-MIT License
-
-Copyright (c) 2023 feyisakedir
-
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
