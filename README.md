@@ -24,7 +24,7 @@
 # 📖 [ About the Project] <a name="about-project"></a>
 > this is my 3rd microverse Portfolio Project and technical project!
 
-**[Design Portfolio project middle section of the mobile website.]** is my 3rd project in microverse platform! In this I try to update my CSS and HTML programming languages. 
+**[Design Portfolio project middle section of the mobile website.]** is my 3rd project in microverse platform! In this I try to update my CSS and HTML programming languages knowledge. 
 
 ## 🛠 Built With <a name="built-with"></a>
 
