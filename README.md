@@ -69,6 +69,9 @@
 <img src="FNT_6121.JPG" alt="Feyisa Kedir " width="70"  height="auto" /></div>
 - GitHub: [@githubhandle](https://github.com/feyisakedir)
 
+👤 **Author2**
+<img src="FNT_6121.JPG" alt="Feyisa Kedir " width="70"  height="auto" /></div>
+- GitHub: [@githubhandle](https://github.com/feyisakedir)
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 🔭 Future Features <a name="future-features"></a>
