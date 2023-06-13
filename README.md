@@ -2,7 +2,7 @@
 <div align="center">
   <img src="FNT_6121.JPG" alt="Hello World" width="140"  height="auto" />
   <br/>
-  <h1>Complete mobile Portfolio Project</h1>
+  <h1>Complete mobile Portfolio Project with Contact Form</h1>
 </div>
 
 ## 📗 Table of Contents
@@ -22,9 +22,9 @@
 - [📝 License](#license)
 
 # 📖 [ About the Project] <a name="about-project"></a>
-> this is my Second microverse Portfolio Project and technical project!
+> this is my first microverse Portfolio Project with my coding partner and technical project!
 
-**[Portfolio]** is my second project in microverse platform! In this I try to update my CSS and HTML programming languages. 
+**[Pair Programming finish mobile Portfolio]** is my first project in microverse platform with my coding partner! In this I try to update my CSS and HTML programming languages. 
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -102,7 +102,7 @@ It is open project for support.
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-I would like to thanks all microverse teams for this chance
+I would like to thanks all microverse teams for this chance and my coding partner 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -120,23 +120,4 @@ This project is licensed under the <a href="https://github.com/feyisakedir/Portf
 
 MIT License
 
-Copyright (c) 2023 feyisakedir
-
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
