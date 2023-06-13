@@ -33,13 +33,13 @@
 <details>
   <summary>HTML File</summary>
   <ul>
-    <li><a href="https://github.com/feyisakedir/Portfolio-2nd-Project/blob/main/index.html">index.html</a></li>
+    <li><a href="https://github.com/feyisakedir/Portfolio-2nd-Project/blob/pair-programming/index.html">index.html</a></li>
   </ul>
 </details>
 <details>
   <summary>CSS File</summary>
   <ul>
-    <li><a href="https://github.com/feyisakedir/Portfolio-2nd-Project/blob/main/styles.css">style.css</a></li>
+    <li><a href="https://github.com/feyisakedir/Portfolio-2nd-Project/blob/pair-programming/styles.css">style.css</a></li>
   </ul>
 </details>
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -59,7 +59,7 @@
 - To get a local copy up and running, follow these steps.
 - Install Git Bash
 - then type the following command to pull the project into your local repo
-- git clone https://github.com/feyisakedir/Hello-World.git
+- git clone https://github.com/feyisakedir/Portfolio-2nd-Project.git
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
