@@ -731,3 +731,55 @@ gap: 5vm;
       padding-top: 2vw;
       margin-top: 2.5vw;
     }
+#message{
+      width: 70vw;
+      height: 35vw;
+      font-family: 'Poppins', sans-serif;
+      font-style: normal;
+      font-weight: 400;
+      font-size: 4vw;
+      line-height: 4vw;
+      color: #B3BAC5;
+      margin-left: 7vw;
+      background: #FFFFFF;
+      border: 1px solid #CFD8DC;
+      border-radius: 8px;
+      padding-left: 5vw;
+      padding-top: 2vw;
+      margin-top: 2.5vw;
+    }
+    .touch{
+      width: 34vw;
+      height: 10vw;
+      font-family: 'Poppins', sans-serif;
+      font-style: normal;
+      font-weight: 500;
+      font-size: 4.53vw;
+      line-height: 8vw;
+      display: flex;
+      align-items: center;
+      text-align: center;
+      letter-spacing: 0.03em;
+      color: #396DF2;
+      flex: none;
+      order: 0;
+      flex-grow: 0;
+      border: #396DF2 solid 1.5px;
+      background-color: white;
+      border-radius: 8px;
+      padding: 1vw 2vw 1vw 2vw;
+      cursor: pointer;
+      margin-top: 2.5vw;
+      margin-left: 7vw;
+    }
+    .touch:hover{background-color: #396DF2; border:  #FFFFFF solid 2px;color:  #FFFFFF;}
+    .touch:active{background-color: #FFFFFF;color: #000000;border:  #FFFFFF solid 2px;}
+    .foot{
+      width: 35.733vw;
+      height: 0.75vw;
+      margin-left: 25vw;
+      margin-bottom: 2vw;
+      background: #0D151E;
+      border-radius: 10px;
+      margin-top: 2vw;
+    }
