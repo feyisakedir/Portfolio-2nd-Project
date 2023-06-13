@@ -458,7 +458,6 @@ gap: 5vm;
   }
   .about-Project-section-page{
     width: 87.5vw;
-    height: 100%;
     display: flex;
     flex-direction: column;
     margin-left: 3vw;
@@ -642,7 +641,6 @@ gap: 5vm;
     }
     .contact{
       width: 100vw;
-      height: 100%;
       background: #6070FF;
       border-top-left-radius: 64px;
       display: flex;
