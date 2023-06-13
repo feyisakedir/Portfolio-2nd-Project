@@ -769,11 +769,10 @@ gap: 5vm;
       border: #396DF2 solid 1.5px;
       background-color: white;
       border-radius: 8px;
-      margin-left: 3vw;
       padding: 1vw 2vw 1vw 2vw;
       cursor: pointer;
       margin-top: 2.5vw;
-      margin-left: 10vw;
+      margin-left: 7vw;
     }
     .touch:hover{background-color: #396DF2; border:  #FFFFFF solid 2px;color:  #FFFFFF;}
     .touch:active{background-color: #FFFFFF;color: #000000;border:  #FFFFFF solid 2px;}
