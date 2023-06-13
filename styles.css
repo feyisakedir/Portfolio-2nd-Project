@@ -639,3 +639,95 @@ gap: 5vm;
       margin-right: 1vw;
       border: #DFE1E6;
     }
+ .contact{
+      width: 100vw;
+      background: #6070FF;
+      border-top-left-radius: 64px;
+      display: flex;
+      flex-direction: column;
+      background-image: url("contact-top.png");
+      background-size: 5vw 5vw;
+      background-position-x: 30vw;
+      background-position-y: 5%;
+      background-repeat: no-repeat;
+    }
+    .contact-me{
+      width: 95vw;
+      height: 5vw;
+      font-family: 'Poppins', sans-serif;
+      font-style: normal;
+      font-weight: 700;
+      font-size: 10.67vw;
+      line-height: 5vw;
+      display: flex;
+      align-items: center;
+      text-align: center;
+      color: #FFFFFF;
+      margin-left: 15vw;
+      padding-top: 5vw;
+    }
+    .topback{
+      width: 95vw;
+      height: 25vw;
+      background-image: url("contact-top1.png");
+      background-size: 15vw 20vw;
+      background-position-x: 73vw;
+      background-position-y: 5vw;
+      background-repeat: no-repeat;
+    }
+    .contact-page{
+      width: 75vw;
+      margin-left: 6vw;
+      font-family: 'Poppins', sans-serif;
+      font-style: normal;
+      font-weight: 400;
+      font-size: 5.579vw;
+      line-height: 6vw;
+      text-align: center;
+      color: #EBEBFF;
+    }
+    .bottomback{
+      width: 75vw;
+      background-image: url("contact-bottom.png");
+      background-size: 9vw 10vw;
+      background-position-x: 65vw;
+      background-position-y: 95%;
+      background-repeat: no-repeat;
+    }
+    #name{ 
+      width: 70vw;
+      height: 10vw;
+      font-family: 'Poppins', sans-serif;
+      font-style: normal;
+      font-weight: 400;
+      font-size: 4.53vw;
+      line-height: 5vw;
+      display: flex;
+      align-items: center;
+      color: #172B4D;
+      margin-left: 7vw;
+      background: #FFFFFF;
+      border: 1px solid #CFD8DC;
+      border-radius: 8px;
+      padding-left: 5vw;
+      padding-top: 2vw;
+    }
+    #email{
+      width: 70vw;
+      height: 10vw;
+      font-family: 'Poppins', sans-serif;
+      font-style: normal;
+      font-weight: 400;
+      font-size: 4.53vw;
+      line-height: 5vw;
+      display: flex;
+      align-items: center;
+      color: #172B4D;
+      margin-left: 7vw;
+      background: #FFFFFF;
+      border: 1px solid #CFD8DC;
+      border-radius: 8px;
+      padding-left: 5vw;
+      padding-top: 2vw;
+      margin-top: 2.5vw;
+    }
