@@ -2,7 +2,7 @@
 <div align="center">
   <img src="FNT_6121.JPG" alt="Hello World" width="140"  height="auto" />
   <br/>
-  <h1>Portfolio Project</h1>
+  <h1> Desktop Version Portfolio Project</h1>
 </div>
 
 ## 📗 Table of Contents
@@ -19,12 +19,13 @@
 - [⭐️ Show your support](#support)
 - [🙏 Acknowledgements](#acknowledgements)
 - [❓ FAQ (OPTIONAL)](#faq)
+- [📝 License](#license)
 
 
 # 📖 [ About the Project] <a name="about-project"></a>
-> this is my Second microverse Portfolio Project and technical project!
+> this is my fourth microverse Portfolio Project and technical project!
 
-**[Portfolio]** is my second project in microverse platform! In this I try to update my CSS and HTML programming languages. 
+**[Desktop Version Portfolio Project]** is my Fourth project in microverse platform! In this I try to update my CSS and HTML programming languages. 
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -33,13 +34,13 @@
 <details>
   <summary>HTML File</summary>
   <ul>
-    <li><a href="https://github.com/feyisakedir/Portfolio-2nd-Project/blob/main/index.html">index.html</a></li>
+    <li><a href="https://github.com/feyisakedir/Portfolio-2nd-Project/blob/Desktop-Version/index.html">index.html</a></li>
   </ul>
 </details>
 <details>
   <summary>CSS File</summary>
   <ul>
-    <li><a href="https://github.com/feyisakedir/Portfolio-2nd-Project/blob/main/styles.css">style.css</a></li>
+    <li><a href="https://github.com/feyisakedir/Portfolio-2nd-Project/blob/Desktop-Version/styles.css">style.css</a></li>
   </ul>
 </details>
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -59,7 +60,7 @@
 - To get a local copy up and running, follow these steps.
 - Install Git Bash
 - then type the following command to pull the project into your local repo
-- git clone https://github.com/feyisakedir/Hello-World.git
+- git clone https://github.com/feyisakedir/Portfolio-2nd-Project.git
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -108,5 +109,13 @@ I would like to thanks all microverse teams for this chance
 - **[What tools is required to run this project?]**
 
   - [Intall HTML and CSS editor tool like:- VISUAL STUDIO CODE]
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## 📝 License <a name="license"></a>
+
+This project is licensed under the <a href="https://github.com/feyisakedir/Portfolio-2nd-Project/blob/main/LICENSE">[MIT License]</a>(LICENSE).
+
+MIT License
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
