@@ -1,4 +1,5 @@
 @media only screen and (min-width: 768px) {
+  @import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,200;0,400;0,500;0,600;0,900;1,500;1,600&display=swap');
   .body{
     background: #FFFFFF;
   }
@@ -80,8 +81,9 @@
     .page{
         display: grid;
         grid-template: 100% 100%;
-        background: #E5E5E5;
+        background: #f4f5f7;
         gap: 10vw;
+        overflow-x: hidden;
     }
     .mainpage{
         display: flex;
@@ -164,7 +166,7 @@
         flex-grow: 0;
         width: 50%;
         height: 1vw;
-        margin-left: 3.5vw;
+        margin-left: 2.25vw;
         }
     .card{
         box-sizing: border-box;
@@ -173,7 +175,7 @@
         align-items: center;
         padding: 16px;
         gap: 12px;
-        width: 95vw;
+        width: 90vw;
         height: 100%;
         background: #FFFFFF;
         border: 1px solid #DFE1E6;
@@ -181,8 +183,8 @@
         flex: none;
         order: 0;
         flex-grow: 0;
-        margin-left: 1vw;
-        margin-right: 1vw;
+        margin-left: 3.5vw;
+        margin-right: 5vw;
     }
         .partone{
             width: 50vw;
@@ -203,8 +205,8 @@
             font-family: 'Poppins', sans-serif;
             font-style: normal;
             font-weight: 700;
-            font-size: 5.208vw;
-            line-height: 5vw;
+            font-size: 4.208vw;
+            line-height: 4.5vw;
             color: #091E42;
             flex: none;
             order: 0;
@@ -239,7 +241,7 @@
             flex: none;
             order: 0;
             flex-grow: 0;
-            margin-left: -1vw;
+            margin-left: -2vw;
           }
           .back{
             width: 9.25vw;
@@ -407,8 +409,8 @@
             padding-left: 0.5vw;
           }
           .see{
-            width: 15.5vw;
-            height: 6vw;
+            width: 13.5vw;
+            height: 5vw;
             font-family: 'Poppins', sans-serif;
             font-style: normal;
             font-weight: 500;
@@ -426,8 +428,8 @@
             border: #396DF2 solid 2px;
             background-color: #FFFFFF;
             border-radius: 8px;
-            margin-left: 5vw;
-            margin-top: 2vw;
+            margin-left: 2.5vw;
+            margin-top: 3.75vw;
             cursor: pointer;
           }
           .see:hover{background-color: #396DF2; border:  #FFFFFF solid 2px;color:  #FFFFFF;}
@@ -447,10 +449,10 @@
             background-repeat: no-repeat;
         }
         .parttwo2{
-            width: 50vw;
+            width: 50%;
             height: 100%;
             background-image: url("Portfolio3.png");
-            background-size: 45vw 100%;
+            background-size: 40vw 100%;
             background-repeat: no-repeat;
         }
         .aboutpage{
@@ -464,12 +466,12 @@
         }
         .aboutmainheader{
             width: 85%;
-            height: 0.5vw;
+            max-height: 0.5vw;
             font-family: 'Poppins', sans-serif;
             font-style: normal;
             font-weight: 700;
             font-size: 2.5vw;
-            line-height: 3vw;
+            line-height: 2.5vw;
             display: flex;
             align-items: center;
             letter-spacing: 0.37px;
@@ -482,7 +484,7 @@
         }
         .aboutmainpara{
             width: 85%;
-            height: 7.5vw;
+            height: 6.5vw;
             font-family: 'Poppins', sans-serif;
             font-style: normal;
             font-weight: 400;
@@ -518,7 +520,7 @@
             cursor: pointer;
             margin-top: 2.5vw;
             margin-left: 10vw;
-            margin-bottom: 10vw;
+            margin-bottom: 15vw;
           }
           .get:hover{background-color: #396DF2; border:  #FFFFFF solid 2px;color:  #FFFFFF;}
           .get:active{background-color: #FFFFFF;color: #000000;border:  #FFFFFF solid 2px;}
